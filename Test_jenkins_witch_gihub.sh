@@ -2,3 +2,4 @@
 
 #!/bin/bash
 echo "Hello World"
+echo "My_first_CI"
