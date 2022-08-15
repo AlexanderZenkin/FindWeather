@@ -1,0 +1,44 @@
+{
+  "coord":{
+    "lon":40.2095,
+    "lat":53.4751
+  },
+  "weather":[
+    {
+      "id":803,
+      "main":"Clouds",
+      "description":"облачно с прояснениями",
+      "icon":"04n"
+    }
+  ],
+  "base":"stations",
+  "main":{
+    "temp":15.08,
+    "feels_like":15.1,
+    "temp_min":15.08,
+    "temp_max":15.08,
+    "pressure":1011,
+    "humidity":94,
+    "sea_level":1011,
+    "grnd_level":994
+  },
+  "visibility":10000,
+  "wind":{
+    "speed":3.71,
+    "deg":36,
+    "gust":10.07
+  },
+  "clouds":{
+    "all":73
+  },
+  "dt":1658523084,
+  "sys":{
+    "country":"RU",
+    "sunrise":1658452715,
+    "sunset":1658511136
+  },
+  "timezone":10800,
+  "id":583358,
+  "name":"Александро-Невский",
+  "cod":200
+}

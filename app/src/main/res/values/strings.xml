@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FindWeather</string>
+    <string name="city_not_found">Город не найден, попробуйте еще раз</string>
+</resources>
